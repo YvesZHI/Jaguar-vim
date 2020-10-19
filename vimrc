@@ -91,7 +91,8 @@ if exists('Jaguar')
     "Plugin 'Valloric/YouCompleteMe'
     Plugin 'scrooloose/nerdtree'
     Plugin 'ctrlpvim/ctrlp.vim'
-    Plugin 'scrooloose/nerdcommenter'
+    Plugin 'preservim/nerdtree' |
+                \ Plugin 'Xuyuanp/nerdtree-git-plugin'
     Plugin 'majutsushi/tagbar'
     Plugin 'vim-airline/vim-airline'
     Plugin 'vim-airline/vim-airline-themes'
