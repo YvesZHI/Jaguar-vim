@@ -54,6 +54,8 @@ endfunction
 
 "autocmd CursorHold,CursorHoldI * update
 
+autocmd User FugitiveChanged NERDTreeRefreshRoot
+
 let g:NERDTreeWinSize=24
 let baseFileType='\.yaml\|\.yml\|\.json\|\.toml\|\.xml\|\.html\|\.sh'
 let currentFileType='\.java'
