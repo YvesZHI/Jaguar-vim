@@ -89,7 +89,6 @@ if exists('Jaguar')
 
     " options
     "Plugin 'Valloric/YouCompleteMe'
-    Plugin 'scrooloose/nerdtree'
     Plugin 'ctrlpvim/ctrlp.vim'
     Plugin 'preservim/nerdtree' |
                 \ Plugin 'Xuyuanp/nerdtree-git-plugin'
